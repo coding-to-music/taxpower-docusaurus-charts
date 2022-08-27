@@ -29,6 +29,7 @@ git branch -M main
 git remote add origin git@github.com:coding-to-music/taxpower-docusaurus-charts.git
 git push -u origin main
 npm run deploy:vercel
+
 ```
 
 # TaxPower API Documentation
